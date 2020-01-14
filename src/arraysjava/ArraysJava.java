@@ -40,8 +40,9 @@ public class ArraysJava {
         ArraysJava ejercicios=new ArraysJava();
         int [] listaNumeros ={99, 31, 24, 2, 5, 50};
         
-        System.out.print(Arrays.toString(ejercicios.maximos(listaNumeros)));
+        System.out.println(Arrays.toString(ejercicios.maximos(listaNumeros)));
         // TODO code application logic here
+        System.out.print("quien come la cebolla , se le crece la chirimoya!!!");
     }
     
 }
